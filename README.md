@@ -13,7 +13,7 @@ Taller enfocado en la preparación, transformación y visualización de datos co
 ## Contenido del repositorio
 - `Taller_Visualizacion_PowerBI.ipynb`: notebook con el proceso ETL.
 - `SuperStoreUS_2015.xlsx`: archivo con los datos crudos, antes de realizar el proceso ETL.
-- `SuperStoreUS_2015_ETL_PowerBI.xlsx`: archivo con los datos procesados por el código en Colab.
+- `SuperStoreUS_2015_ETL_PowerBI.xlsx`: archivo con los datos procesados por el código en Colab, preparado para ser llevado a PowerBI y crear el tablero de análisis.
 
 ## Resultados
 Se desarrolló un proceso de preparación de datos y un tablero interactivo para analizar ventas, ganancias, productos, clientes, regiones y métodos de envío, facilitando la interpretación de los resultados y la identificación de oportunidades de mejora.
